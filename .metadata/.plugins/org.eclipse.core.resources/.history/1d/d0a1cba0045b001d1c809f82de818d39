@@ -1,0 +1,8 @@
+server.port=8088
+server.servlet.context-path=/stocks
+spring.application.name=Stock-Items
+
+# Actuator
+# management.security.enabled = false
+management.port = 9000
+management.endpoints.web.exposure.include=*

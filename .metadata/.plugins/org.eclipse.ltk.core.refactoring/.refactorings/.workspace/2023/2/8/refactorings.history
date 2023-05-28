@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 7 resources" deleteContents="false" description="Delete 7 resources" element1="/boot-batch-tasklet-hello" element2="/CustomAutoConfig" element3="/CustomPGAutoConfig" element4="/PracticePrograms" element5="/Springboot" element6="/springboot-batch" element7="/WMS" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="7" stamp="1677117337396"/>
+</session>
